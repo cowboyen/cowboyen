@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm herman</h1>
+<h1 align="center">Hi 👋 I'm herman</h1>
 <h3 align="center">A passionate UX-designer from Norway :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cowboyen&label=Profile%20views&color=0e75b6&style=flat" alt="cowboyen" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FIGMA + AI + CODE**
 
-- 👨‍💻 All of my projects are available at [www.hermanskog.com](www.hermanskog.com)
+- 👨‍💻 All of my projects are available at www.hermanskog.com
 
 - 💬 Ask me about **all or nothing**
 
