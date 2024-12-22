@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm herman</h1>
 <h3 align="center">A passionate UX-designer from Norway :)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cowboyen&label=Profile%20views&color=0e75b6&style=flat" alt="cowboyen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cowboyen" alt="cowboyen" /></a> </p>
+
 - 🔭 I’m currently working on **my own homepage and stuff at TRY dig**
 
 - 🌱 I’m currently learning **FIGMA + AI + CODE**
