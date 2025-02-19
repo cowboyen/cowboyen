@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FIGMA + AI + CODE**
 
-- 👨‍💻 All of my projects are available at www.hermanskog.com
+- 👨‍💻 A showcase of projects are available at www.hermanskog.com
 
 - 💬 Ask me about **all or nothing**
 
